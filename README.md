@@ -48,7 +48,7 @@ PyInstaLive is capable of downloading:
 
 - [ffmpeg](https://ffmpeg.org/download.html)
 - [Git](https://git-scm.com/downloads)
-- [Python 2.7.x or 3.5>=](https://www.python.org/downloads/)
+- [Python 2.7.x or 3.5<=](https://www.python.org/downloads/)
 - [pip + setuptools](https://pip.pypa.io/en/stable/installing/)
 
 Make sure all tools are accessible via command line (added to your PATH if on Windows, use Google).
@@ -100,7 +100,7 @@ password = grapefruits
 download_path = 
 download_lives = True
 download_replays = True
-download_comments = true
+download_comments = True
 show_cookie_expiry = True
 log_to_file = True
 ffmpeg_path = 
