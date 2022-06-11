@@ -160,19 +160,19 @@ Below is an example of PyInstaLive's output after downloading a livestream:
 ---------------------------------------------------------------------------
 ```
 
-![](https://raw.githubusercontent.com/dvingerh/PyInstaLive/5907fc866446d5f426389a5198560075848d770e/.github/spacer.png)
+![](https://raw.githubusercontent.com/UnixCro/PyInstaLive/5907fc866446d5f426389a5198560075848d770e/.github/spacer.png)
 
 ## Notes
 - I have not much time to extensively test the changes I make to the code, so when you do encounter a problem please [open an issue](https://github.com/dvingerh/PyInstaLive/issues/new) and try using an older version of PyInstaLive in the meantime.
 
 - Python 2 cannot save most unicode characters in comments such as emojis if it's not built from source using the `--enable-unicode=ucs4` argument. Read more about this [here](https://emoji-unicode.readthedocs.io/en/latest/python2.html). This should probably not affect pre-installed Python 2 installations on Linux-based systems such as Ubuntu or Debian.
 
-![](https://raw.githubusercontent.com/dvingerh/PyInstaLive/5907fc866446d5f426389a5198560075848d770e/.github/spacer.png)
+![](https://raw.githubusercontent.com/UnixCro/PyInstaLive/5907fc866446d5f426389a5198560075848d770e/.github/spacer.png)
 
 
 ## Help
 You can find a list of frequently asked questions [here](https://github.com/dvingerh/PyInstaLive/blob/master/FAQ.md).
 
-You can find a list of available commands and an explanation of the configuration file [here](https://github.com/dvingerh/PyInstaLive/blob/master/MOREHELP.md).
+You can find a list of available commands and an explanation of the configuration file [here](https://github.com/UnixCro/PyInstaLive/blob/master/MOREHELP.md).
 
 If you would like to report a bug or ask a question please [open an issue](https://github.com/dvingerh/PyInstaLive/issues/new).
