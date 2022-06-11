@@ -36,7 +36,7 @@ PyInstaLive is capable of downloading:
 
 ## Quickstart
 
-- [Read the Notes & Help sections below (important!)](https://github.com/notcammy/PyInstaLive#notes)
+- [Read the Notes & Help sections below (important!)](https://github.com/UnixCro/PyInstaLive#notes)
 - Install the prerequisites and then PyInstaLive.
 - Run `pyinstalive` to generate a default configuration file.
 - Edit the configuration file using any text editor.
